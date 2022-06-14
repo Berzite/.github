@@ -16,3 +16,8 @@ Berzite is a project founded by @CoderAnchel and @erxxc08, Berzite gives people 
 - Berzite will create a Token, which will be used to buy a series of NFT's that users can use to have advantages in the APP
 - Berzite will create an NFT market where BZT is the currency.
 - Berzite will build an ecosystem around the NFTs, token and app.
+
+Here are all the social channels:
+- https://twitter.com/BerziteN 
+- https://www.instagram.com/berziten/
+- https://www.tiktok.com/@berzite
