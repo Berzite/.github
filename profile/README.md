@@ -11,7 +11,7 @@
 -->
 ## Berzite Network
 
-Berzite is a project founded by @CoderAnchel and @erxxc08, Berzite gives people the chance to earn money with an NFT game that rewards people in BZT for walking.
+Berzite is a project founded by @CoderAnchel, Berzite gives people the chance to earn money with an NFT game that rewards people in BZT for walking.
 
 - Berzite will create a Token, which will be used to buy a series of NFT's that users can use to have advantages in the APP
 - Berzite will create an NFT market where BZT is the currency.
