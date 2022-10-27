@@ -9,7 +9,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Berzite Network
+
+# Welcome to Berzite!
+###  English
+Berzite is an application created to become the best music platform in the world ever created incorporating features of the best music players in the world totally free, and new features that will make people's heads explode.
+### Spanish
+Berzite es una aplicación creada para convertirse en la mejor plataforma de musica del mundo jamas creada incorporando características de los mejores reproductores de música del mundo totalmente gratis, y nuevas funcionalidades que harán que le explote la cabeza a la gente
 
 
 Here are all the social channels:
